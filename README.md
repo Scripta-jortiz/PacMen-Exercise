@@ -1,2 +1,2 @@
-# PacMen-Exercise
+# Project PacMen Exercise
 PacMen Exercise
