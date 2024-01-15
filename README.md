@@ -8,4 +8,4 @@ Este programa solo abre una pestaña en google en la que tendra 2 botones uno pa
 ## How to run
 Simplemente descargar el ZIP descomprimir y proceder a abrir el index para poder acceder al programa del pacman
 ## Licencia
-[Licencia MIT](https://github.com/Scripta-jortiz/Eyes-Exercise?tab=MIT-1-ov-file)
+[Licencia MIT](https://github.com/Scripta-jortiz/PacMen-Exercise?tab=MIT-1-ov-file)
